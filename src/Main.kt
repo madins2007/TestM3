@@ -5,6 +5,6 @@ fun main(){
     val Ivan = Person("Ivan")
     println("$Ivan")
 
-    val Petr = Worker("Fedor","Mars")
-    println("$Petr")
+    val Fedor = Worker("Fedor","Mars")
+    println("$Fedor")
 }
